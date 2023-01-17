@@ -1,0 +1,7 @@
+{
+  "name": "NativeIntegrationTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
